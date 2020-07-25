@@ -1,0 +1,23 @@
+{
+  "name": "com.groundling.camera.toolkit",
+  "displayName": "Camera Toolkit",
+  "version": "1.0.0",
+  "description": "The Camera Toolkit package is a high-level, component-based, system for common camera controls.",
+  "author": "Groundling Games",
+  "unity": "2019.3",
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/nrvllrgrs/camera.toolkit.git"
+},
+  "bugs": {
+  "url": "https://github.com/nrvllrgrs/camera.toolkit/issues"
+},
+  "keywords": [
+  "Unity3D",
+  "Unity"
+],
+"dependencies": {
+    "com.unity.util": "https://github.com/nrvllrgrs/unity-util.git"
+  },
+  "license": "MIT"
+}
